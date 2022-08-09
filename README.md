@@ -24,11 +24,9 @@ A reference to the resources in Bangladesh that offer free and premium API servi
 | Source | Description | Type |
 | ------ | ----------- | ---- |
 | [**Holiday API**](https://holidayapi.com/countries/bd/)| Accurate, up-to-date public holidays, bank holidays, and observances in Bangladesh for 2022 ready to be integrated into your application. | 💰 |
-
-| ------ | ----------- | ---- |
 | [**Bkash API**](https://developer.bka.sh/)| integrated Bkash ß into your application. | 💰 |
 
-
+| ------ | ----------- | ---- |
 
 
 
